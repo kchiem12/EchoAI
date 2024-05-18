@@ -32,8 +32,10 @@ This notebook includes:
 3. Follow the instructions in the notebooks to preprocess data, train the models, and generate MIDI files, replacing the path to your data, output paths, etc. with your desired paths.
 
 Zips to the trained models can be found here: https://drive.google.com/file/d/1yfJKGeCgyNKW6P8-QoUC0gBN5ptKBaC_/view?usp=sharing2
+
 The link to the original raw MIDI dataset can be found here: https://magenta.tensorflow.org/datasets/maestro
 
 ## References
 Hawthorne, C., Stasyuk, A., Roberts, A., Simon, I., Huang, C.-Z. A., Dieleman, S., Elsen, E., Engel, J., & Eck, D. (2019). Enabling factorized piano music modeling and generation with the MAESTRO dataset. arXiv. https://arxiv.org/abs/1810.12247
+
 Shen, C., Yao, V. Z., & Liu, Y. (2023, June). Everybody compose: Deep beats to music. In Proceedings of the 14th ACM Multimedia Systems Conference (MMSys '23). ACM. https://doi.org/10.1145/3587819.3592542
